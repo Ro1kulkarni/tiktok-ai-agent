@@ -4,7 +4,7 @@
 This project demonstrates a production-style AI workflow for creating TikTok Ads via conversation.
 
 ### Key Design Decisions
-- Gemini 1.5 Flash used (free tier)
+- Groq API used (free tier)
 - TikTok APIs are mocked to focus on reasoning
 - Business rules enforced outside the LLM
 - Structured JSON output enforced via prompts
