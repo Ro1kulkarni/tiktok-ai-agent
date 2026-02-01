@@ -15,6 +15,6 @@ This project demonstrates a production-style AI workflow for creating TikTok Ads
 - No-music blocked for Conversion campaigns
 
 ### How to Run
-1. Add Gemini API key
+1. Add Groq API key
 2. `pip install -r requirements.txt`
 3. `python main.py`
